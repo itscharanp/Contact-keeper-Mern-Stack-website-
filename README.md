@@ -8,7 +8,7 @@ Link: https://charan-contact-keeperapp.herokuapp.com/login
 Full stack MERN contact manager with React hooks, context & JWT authentication.<br>
 <br>
 
-<img src="https://github.com/beastgetssavvy13/pixelated-contact-keeper/blob/master/client/Cap.JPG"/>
+<img src="https://github.com/itscharanp/Contact-keeper-Mern-Stack-website-/blob/master/Screenshot%20(67).png"/>
 <br>
 
 
